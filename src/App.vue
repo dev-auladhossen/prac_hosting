@@ -449,5 +449,10 @@ header {
     place-items: flex-start;
     flex-wrap: wrap;
   }
+  header .wrapper {
+    display: flex;
+    place-items: flex-start;
+    flex-wrap: wrap;
+  }
 }
 </style>
